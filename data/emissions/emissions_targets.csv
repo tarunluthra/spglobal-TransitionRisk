@@ -1,0 +1,51 @@
+uid,type_of_target,reduction_target,reduction_value,reduction_type,reduction_unit,baseline_year,endline_year,comment,gics_sector,country,year,scope1_tonnes,scope2_tonnes,unit_production,production_volume,merge_status
+C001,Scope 2,0.547,0.547,absolute,%,2019,2050,,Real Estate,Global,2025.0,21510000.0,1070000.0,m2 building,46280000.0,both
+C002,Scope 1,0.35 tCO2e/MWh,0.35,intensity,tCO2e/mwh,2020,2050,,Energy,Brazil,2025.0,6570000.0,17510000.0,MWh,40950000.0,both
+C003,Scope 1,0.348,0.348,absolute,%,2018,2050,,Energy,EU,2025.0,19940000.0,7720000.0,MWh,69790000.0,both
+C003,Scope 2,0.256,0.256,absolute,%,2019,2050,,Energy,EU,2025.0,19940000.0,7720000.0,MWh,69790000.0,both
+C004,Scope 2,0.188,0.188,absolute,%,2024,2050,,Consumer Discretionary,Unknown,2025.0,13340000.0,17140000.0,unit,98870000.0,both
+C005,Scope 3,0.198,0.198,absolute,%,2015,2050,Supply chain focus,Financials,EU,2025.0,7470000.0,10710000.0,unit,68920000.0,both
+C006,Direct,0.113,0.113,absolute,%,2016,2050,Includes both Scope 1 and 2,Materials,Brazil,2025.0,24650000.0,13070000.0,kg product,30700000.0,both
+C008,Scope 2,0.276,0.276,absolute,%,2021,2050,,Industrials,Global,2025.0,12040000.0,5550000.0,kg product,22800000.0,both
+C009,Direct,0.193,0.193,absolute,%,2023,2050,Includes both Scope 1 and 2,Energy,India,2025.0,27370000.0,10360000.0,MWh,78310000.0,both
+C010,Direct,0.296,0.296,absolute,%,2016,2050,Includes both Scope 1 and 2,Healthcare,India,2025.0,5590000.0,13470000.0,unit,42410000.0,both
+C011,Scope 2,0.54,0.54,absolute,%,2019,2050,,Materials,Unknown,2025.0,24650000.0,13750000.0,ton steel,19000000.0,both
+C012,Scope 2,0.179,0.179,absolute,%,2015,2050,,Financials,Brazil,2025.0,18490000.0,1710000.0,unit,77070000.0,both
+C013,Scope 2,forty%,0.4,absolute,%,2019,2050,,Financials,UK,2025.0,29590000.0,12390000.0,unit,54170000.0,both
+C014,Scope 2,0.348,0.348,absolute,%,2019,2050,,IT,USA,2025.0,27760000.0,19420000.0,unit,89820000.0,both
+C015,Scope 1,0.273,0.273,absolute,%,2024,2050,,Industrials,Australia,2025.0,11560000.0,1310000.0,unit,48000000.0,both
+C016,Scope 1,0.505,0.505,absolute,%,2024,2050,,Financials,India,2025.0,5650000.0,1000000.0,unit,55930000.0,both
+C017,Scope 1,0.544,0.544,absolute,%,2019,2050,,IT,Germany,2025.0,16900000.0,16780000.0,unit,44090000.0,both
+C018,Scope 2 and other,0.038 tCO2e/unit,0.038,intensity,tCO2e/unit,2024,2050,Includes both Scope 1 and 2,Consumer Discretionary,EU,2025.0,8810000.0,1510000.0,unit,30880000.0,both
+C019,Scope 2,0.526,0.526,absolute,%,2019,2050,,Materials,USA,2025.0,15740000.0,10390000.0,kg product,54180000.0,both
+C020,Scope 1,0.317,0.317,absolute,%,2021,2050,,IT,Australia,2025.0,9560000.0,6680000.0,unit,7140000.0,both
+C021,Scope 1,0.526,0.526,absolute,%,2024,2050,,IT,India,2025.0,1780000.0,580000.0,unit,25540000.0,both
+C022,Scope 1,0.154,0.154,absolute,%,2020,2050,,Financials,India,2025.0,14750000.0,3060000.0,unit,26480000.0,both
+C023,Scope 2,0.21,0.21,absolute,%,2016,2050,,Healthcare,EU,2025.0,23610000.0,19660000.0,kg product,23810000.0,both
+C024,Scope 2,0.127,0.127,absolute,%,2017,2050,,Utilities,Brazil,2025.0,13220000.0,7880000.0,MWh,13520000.0,both
+C025,Direct,0.412,0.412,absolute,%,2016,2050,Includes both Scope 1 and 2,IT,Australia,2025.0,16370000.0,2040000.0,unit,52340000.0,both
+C027,Scope 2,0.05 tCO2e/unit,0.05,intensity,tCO2e/unit,2019,2050,,IT,Australia,2025.0,17630000.0,6970000.0,unit,58700000.0,both
+C028,Direct,0.218,0.218,absolute,%,2022,2050,Includes both Scope 1 and 2,IT,Australia,2025.0,3430000.0,12650000.0,unit,91380000.0,both
+C029,Direct,0.339,0.339,absolute,%,2019,2050,Includes both Scope 1 and 2,Consumer Discretionary,Global,2025.0,27550000.0,16770000.0,vehicle,43290000.0,both
+C030,Scope 1,0.196,0.196,absolute,%,2023,2050,,Real Estate,USA,2025.0,6780000.0,9440000.0,unit,59820000.0,both
+C031,Direct,0.479,0.479,absolute,%,2017,2050,Includes both Scope 1 and 2,Industrials,Unknown,2025.0,4179999.99999999,7310000.0,unit,,both
+C032,Scope 2,0.196,0.196,absolute,%,2022,2050,,Materials,Global,2025.0,3740000.0,2080000.0,ton steel,92040000.0,both
+C033,Scope 1,0.528,0.528,absolute,%,2020,2050,,Financials,Global,2025.0,21300000.0,4370000.0,unit,60310000.0,both
+C034,Scope 2,0.21 tCO2e/MWh,0.21,intensity,tCO2e/mwh,2017,2050,,Energy,EU,2025.0,25960000.0,8100000.0,MWh,23830000.0,both
+C035,Scope 3,0.434,0.434,absolute,%,2015,2050,Supply chain focus,Real Estate,India,2025.0,6960000.0,2700000.0,m2 building,46850000.0,both
+C036,Direct,0.22 tCO2e/unit,0.22,intensity,tCO2e/unit,2020,2050,Includes both Scope 1 and 2,Healthcare,China,2025.0,19820000.0,12500000.0,unit,81500000.0,both
+C037,Scope 1,0.533,0.533,absolute,%,2016,2050,,Energy,USA,2025.0,1410000.0,16780000.0,MWh,33290000.0,both
+C038,Scope 2,0.419,0.419,absolute,%,2017,2050,,Financials,USA,2025.0,27110000.0,8440000.0,unit,92290000.0,both
+C039,Scope 3,0.571,0.571,absolute,%,2015,2050,Supply chain focus,Energy,India,2025.0,4800000.0,11760000.0,MWh,70320000.0,both
+C040,Scope 1,0.586,0.586,absolute,%,2024,2050,Target includes biogenic emissions,Financials,UK,2025.0,17510000.0,3590000.0,unit,32310000.0,both
+C041,Direct,0.328,0.328,absolute,%,2019,2050,Includes both Scope 1 and 2,IT,India,2025.0,4380000.0,12140000.0,unit,43900000.0,both
+C042,Scope 2,0.25,0.25,absolute,%,2022,2050,,IT,Brazil,2025.0,16239999.9999999,10320000.0,unit,72300000.0,both
+C043,Direct,0.489,0.489,absolute,%,2018,2050,Includes both Scope 1 and 2,Energy,Brazil,2025.0,26490000.0,6060000.0,MWh,61400000.0,both
+C044,Scope 2,0.11 tCO2e/unit,0.11,intensity,tCO2e/unit,2021,2050,,IT,Unknown,2025.0,2750000.0,5570000.0,unit,36270000.0,both
+C045,Scope 2,0.15 tCO2e/unit,0.15,intensity,tCO2e/unit,2017,2050,,Financials,UK,2025.0,11110000.0,16170000.0,unit,79970000.0,both
+C046,Scope 1,0.429,0.429,absolute,%,2017,2050,,Real Estate,Brazil,2025.0,26110000.0,2690000.0,unit,78530000.0,both
+C047,Direct,0.519,0.519,absolute,%,2020,2050,Includes both Scope 1 and 2,IT,Brazil,2025.0,26840000.0,1190000.0,unit,59830000.0,both
+C048,Scope 2,0.11,0.11,absolute,%,2023,2050,,Energy,India,2025.0,2120000.0,6250000.0,MWh,85020000.0,both
+C049,Scope 1,0.42 tCO2e/m2 building,0.42,intensity,tCO2e/m2 building,2019,2050,,Real Estate,Global,2025.0,28100000.0,8550000.0,m2 building,47220000.0,both
+C050,Scope 1,0.193,0.193,absolute,%,2020,2050,,Materials,Australia,2025.0,12730000.0,15760000.0,ton steel,36240000.0,both
+C999,Scope 3,0.5,0.5,absolute,%,2022,2050,,,,,,,,,left_only
