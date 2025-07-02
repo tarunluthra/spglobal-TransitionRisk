@@ -6,13 +6,14 @@ This repository analyzes **climate transition risks** for companies using S&P Gl
 
 ## 📦 Repository Structure
 
-| File / Folder                | Description |
-|-----------------------------|-------------|
-| `climatetransitionriskTL.py`| Core logic for emissions projection, carbon pricing, and abatement modeling. |
-| `spworkStoryboard.ipynb`    | Visualization notebook for generating graphs, insights, and scenario comparisons. |
-| `*.csv`                     | Output files from the analysis: projected emissions, costs, and results per company. |
-| `README.md`                 | This file. |
-| `S&P Global S1 Transition Risk Data.xlsx` | (not included) Input Excel file with raw emissions, targets, and pricing data. |
+| File / Folder         | Description |
+|----------------------|-------------|
+| `notebooks/climatetransitionriskTLupdate.ipynb` | Core notebook for emissions projection, carbon pricing, and abatement modeling. |
+| `notebooks/spworkStoryboard.ipynb`              | Visualization notebook for generating graphs, insights, and scenario comparisons. |
+| `data/`               | Contains cleaned and derived `.csv` files for emissions, carbon prices, abatement costs, and tradeoffs. |
+| `figures/`            | PNG exports of plots and dashboards (optional). |
+| `README.md`           | This file. |
+| `S&P Global S1 Transition Risk Data.xlsx` | *(Not included)* Input Excel file with raw emissions, targets, and pricing data. |
 
 ---
 
@@ -64,3 +65,15 @@ Estimate future Scope 1 and Scope 2 emissions (2025–2050), evaluate carbon pri
 - **Top Emitters and Cost-Exposed Companies**
 
 ---
+
+## 📁 Data Notes
+
+- All `.csv` outputs are stored in the `data/` directory, separated into subfolders (`carbon/`, `abatement/`, `emissions/`, etc.) for clarity.
+- Figures can optionally be exported to the `figures/` folder for use in reports or dashboards.
+
+---
+
+## 💡 Contribution & License
+
+This project was created for research and analytical purposes. Reach out via Issues or PRs for collaboration or improvements.
+
